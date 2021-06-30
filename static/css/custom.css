@@ -19,14 +19,14 @@
   --ls-a-chosen-bg: #eee8d5;
   --ls-code-mirror-bg: #FEF9EB;
   --ls-outline-color: #002b36;
-  --ls-block-properties-background-color: #eee8d5;
+  --ls-block-properties-background-color: #e2ddcc;
   --ls-inline-code-primary-color: #b58900;
   --ls-mark-bg: #073642;
   --ls-mark-color: var(--ls-primary-background-color);
   --ls-header-color: #2aa198;
   --ls-select-color: #fdf6e3;
   --ls-select-bg: #657b83;
-  --ls-page-inline-code-bg-color: #dddace;*/
+  --ls-page-inline-code-bg-color: #dddace;
 }
 
 
